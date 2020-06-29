@@ -128,3 +128,4 @@ pretrained/td500_resnet18
 pretrained/td500_resnet50
 pretrained/totaltext_resnet18
 pretrained/totaltext_resnet50
+.DS_Store
