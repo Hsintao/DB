@@ -119,3 +119,12 @@ results
 *.pyx
 struture/representers/setup.py
 demo_results
+pretrained/ic15_resnet50
+pretrained/ic15_resnet18
+pretrained/ic15_resnet50
+pretrained/pre-trained-model-synthtext-resnet18
+pretrained/pre-trained-model-synthtext-resnet50
+pretrained/td500_resnet18
+pretrained/td500_resnet50
+pretrained/totaltext_resnet18
+pretrained/totaltext_resnet50
